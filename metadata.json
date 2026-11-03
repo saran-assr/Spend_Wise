@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise - Personal Finance & Expense Analytics",
+  "description": "Modern personal finance management, expense analytics, smart budgeting, and savings goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
